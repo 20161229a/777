@@ -1,0 +1,16 @@
+<?xml version="1.0"?>
+
+<PropertyList>
+<sim>
+    <model>
+        <livery>
+            <name type="string">China Airlines B-18005 (SkyTeam Livery)</name>
+            <texture>Liveries-300/China airlines B-18005.png</texture>
+        </livery>
+    </model>
+    <aircraft-class>gate</aircraft-class>
+    <aircraft-operator>CAL</aircraft-operator>
+    <aircraft-registration>B-18005</aircraft-registration>
+    <aircraft-SELCAL>AG-HQ</aircraft-SELCAL>
+</sim>
+</PropertyList>

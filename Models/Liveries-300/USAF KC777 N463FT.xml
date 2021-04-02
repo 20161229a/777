@@ -1,0 +1,16 @@
+<?xml version="1.0"?>
+
+<PropertyList>
+<sim>
+    <model>
+        <livery>
+            <name type="string">USAF KC777 N463FT</name>
+			<texture>Liveries-300/USAF KC777 N463FT.png</texture>
+        </livery>
+    </model>
+    <aircraft-class>gate</aircraft-class>
+    <aircraft-operator>USAF</aircraft-operator>
+    <aircraft-registration>N463FT</aircraft-registration>
+    <aircraft-SELCAL>AG-HQ</aircraft-SELCAL>
+</sim>
+</PropertyList>

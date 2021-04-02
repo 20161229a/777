@@ -1,0 +1,14 @@
+<?xml version="1.0"?>
+
+<PropertyList>
+<sim>
+    <model>
+        <livery>
+            <name type="string">B-15801 I Love Taiwan Livery</name>
+            <texture>Liveries-300/Taiwan.png</texture>
+        </livery>
+    </model>
+    <aircraft-class>gate</aircraft-class>
+    <aircraft-operator>B-15801</aircraft-operator>
+</sim>
+</PropertyList>

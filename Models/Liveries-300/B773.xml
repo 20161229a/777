@@ -1,0 +1,14 @@
+<?xml version="1.0"?>
+
+<PropertyList>
+<sim>
+    <model>
+        <livery>
+            <name type="string">Boeing 777-300 ER</name>
+            <texture>Liveries-300/B773.png</texture>
+        </livery>
+    </model>
+    <aircraft-class>gate</aircraft-class>
+    <aircraft-operator>B773</aircraft-operator>
+</sim>
+</PropertyList>

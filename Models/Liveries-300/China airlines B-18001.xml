@@ -1,0 +1,16 @@
+<?xml version="1.0"?>
+
+<PropertyList>
+<sim>
+    <model>
+        <livery>
+            <name type="string">China airlines B-18001</name>
+            <texture>Liveries-300/China airlines B-18001.png</texture>
+        </livery>
+     </model>
+    <aircraft-class>gate</aircraft-class>
+    <aircraft-operator>CAL</aircraft-operator>
+    <aircraft-registration>B-18001</aircraft-registration>
+    <aircraft-SELCAL>AG-HQ</aircraft-SELCAL>
+</sim>
+</PropertyList>

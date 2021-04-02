@@ -1,0 +1,16 @@
+<?xml version="1.0"?>
+
+<PropertyList>
+<sim>
+    <model>
+        <livery>
+            <name type="string">FGDG Airway B-45701</name>
+            <texture>Liveries-300/FGDG B-45701.png</texture>
+        </livery>
+    </model>
+    <aircraft-class>gate</aircraft-class>
+    <aircraft-operator>ADX</aircraft-operator>
+    <aircraft-registration>B-45701</aircraft-registration>
+    <aircraft-SELCAL>AG-HQ</aircraft-SELCAL>
+</sim>
+</PropertyList>

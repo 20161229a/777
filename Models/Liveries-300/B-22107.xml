@@ -1,0 +1,14 @@
+<?xml version="1.0"?>
+
+<PropertyList>
+<sim>
+    <model>
+        <livery>
+            <name type="string">VAX V Air B-22107</name>
+            <texture>Liveries-300/B-22107.png</texture>
+        </livery>
+    </model>
+    <aircraft-class>gate</aircraft-class>
+    <aircraft-operator>B-22107</aircraft-operator>
+</sim>
+</PropertyList>
