@@ -4,13 +4,13 @@
 <sim>
     <model>
         <livery>
-            <name type="string">EVA Eva Airways B-16722</name>
-            <texture>Liveries-300/B-16722.png</texture>
+            <name type="string">EVAAIR B-16728 </name>
+            <texture>Liveries-300/EVAAIR B-16728.png</texture>
         </livery>
     </model>
     <aircraft-class>gate</aircraft-class>
     <aircraft-operator>EVA</aircraft-operator>
-    <aircraft-registration>B-16722</aircraft-registration>
+    <aircraft-registration>B-16728</aircraft-registration>
     <aircraft-SELCAL>AG-HQ</aircraft-SELCAL>
 </sim>
 </PropertyList>

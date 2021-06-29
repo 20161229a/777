@@ -4,8 +4,8 @@
 <sim>
     <model>
         <livery>
-            <name type="string">EVA Eva Airways B-16705</name>
-            <texture>Liveries-300/B-16705.png</texture>
+            <name type="string">EVAAIR B-16705</name>
+            <texture>Liveries-300/EVAAIR B-16705.png</texture>
         </livery>
     </model>
     <aircraft-class>gate</aircraft-class>
